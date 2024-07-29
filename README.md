@@ -12,7 +12,6 @@
 [![Dependencies][dependencies-shield]][dependencies-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![Program Architecture][program-arch-shield]][program-arch-url]
 
 
 
@@ -27,11 +26,7 @@
   <p align="center">
     A program to guide an autonomous robot to the center of an unknown maze using a variation of the floodfill algorithm.
     <br />
-    <a href="https://github.com/zak-steenhoek/Micromouse-Robot" style="text-decoration: none;"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/zak-steenhoek/Micromouse-Robot">View Demo</a>
-    ⋅
     <a href="https://github.com/zak-steenhoek/Micromouse-Robot/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ⋅
     <a href="https://github.com/zak-steenhoek/Micromouse-Robot/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
@@ -53,14 +48,8 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contributions">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -91,7 +80,6 @@ to take up the bulk of the software workload. After some brutal trial and error 
 follower program. The simulator could be downloaded to support many different languages, and I chose Python. At this point, it was just a matter of writing 
 the program to utilize a variation of floodfill to determine the quickest path to the center of the maze. 
 
-The rest can come later. All of this shouldn't be here anyways 
 
 <p align="right">(<a href="#readme-top">^</a>)</p>
 
@@ -103,7 +91,6 @@ The rest can come later. All of this shouldn't be here anyways
 
 &nbsp;&nbsp;&nbsp;&nbsp;[![Python][python-shield]][python-url]
 
-Jetbrains/Pycharm
 
 <p align="right">(<a href="#readme-top">^</a>)</p>
 
@@ -113,29 +100,32 @@ Jetbrains/Pycharm
 
 ## Getting Started
 
-To get a local copy up and running, follow these steps.
+To get a local copy up and running, follow these steps...
 
-### Prerequisites
+* Download the [mms sim](https://github.com/zak-steenhoek/Micromouse-Robot/blob/main/ref/mms-repo) in the language of your choice. I chose python, but many other options are available.
 
-Things you need to use the software and how to install them:
+* Setup your simulator. Instructions can be found in the mms repo linked above. Some example mazes can be found [here](https://github.com/zak-steenhoek/Micromouse-Robot/blob/main/mazes)
 
-* Check back soon...
-
-### Installation
-
-Install instructions:
-
-* Step 1: Check back soon...
+* Start writing your program! 
 
 <p align="right">(<a href="#readme-top">^</a>)</p>
 
 
 
-<!-- CONTRIBUTING -->
+<!-- ACKNOWLEDGMENTS -->
 
-## Contributing
+## Acknowledgments
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* Creators of the Micromouse simulator
+* Creators of the piccola project
+
+<p align="right">(<a href="#readme-top">^</a>)</p>
+
+
+
+<!-- CONTRIBUTIONS -->
+
+## Contributions
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -176,16 +166,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-* mms repo
-* piccola repo
-
-<p align="right">(<a href="#readme-top">^</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -193,7 +173,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- BADGES -->
 [contributors-shield]: https://img.shields.io/badge/-Contributors-black.svg?logoSize=auto&style=for-the-badge&logo=codementor&logoColor=D7CFB7&labelColor=463C1E&color=463C1E
-[contributors-url]: https://github.com/zak-steenhoek
+[contributors-url]: https://github.com/zak-steenhoek/Micromouse-Robot/blob/main/ref
 
 [forks-shield]: https://img.shields.io/badge/-Forks-black.svg?logoSize=auto&style=for-the-badge&logo=greasyfork&logoColor=D7CFB7&labelColor=463C1E&color=463C1E
 [forks-url]: https://github.com/zak-steenhoek/Micromouse-Robot/forks
@@ -208,13 +188,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [dependencies-url]: https://github.com/zak-steenhoek/Micromouse-Robot/network/dependencies
 
 [acknowledgments-shield]: https://img.shields.io/badge/-Acknowledgments-black.svg?logoSize=auto&style=for-the-badge&logo=elegoo&logoColor=D7CFB7&labelColor=463C1E&color=463C1E
-[acknowledgments-url]: https://github.com/zak-steenhoek/Micromouse-Robot/blob/main/ref/master/ACKNOWLEDGMENTS.txt
+[acknowledgments-url]: https://github.com/zak-steenhoek/Micromouse-Robot/blob/main/README.md#acknowledgments
 
 [license-shield]: https://img.shields.io/badge/-Licence-black.svg?logoSize=auto&style=for-the-badge&logo=adblock&logoColor=D7CFB7&labelColor=463C1E&color=463C1E
-[license-url]: https://github.com/zak-steenhoek/Micromouse-Robot/blob/main/ref/master/LICENCE.txt
+[license-url]: https://github.com/zak-steenhoek/Micromouse-Robot/blob/main/LICENSE
 
-[program-arch-shield]: https://img.shields.io/badge/-Arch-black.svg?logoSize=auto&style=for-the-badge&logo=bookstack&logoColor=D7CFB7&labelColor=463C1E&color=463C1E
-[program-arch-url]: https://github.com/zak-steenhoek/Micromouse-Robot/blob/main/ref/arch/program_arch.txt
 
 
 <!-- MADE WITH -->

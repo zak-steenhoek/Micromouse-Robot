@@ -1,0 +1,6 @@
+[submodule "ref/ref/mms-repo"]
+	path = ref/ref/mms-repo
+	url = https://github.com/zak-steenhoek/mms
+[submodule "ref/ref/piccola-robot-repo"]
+	path = ref/ref/piccola-robot-repo
+	url = https://github.com/zak-steenhoek/piccola

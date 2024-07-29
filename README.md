@@ -103,11 +103,7 @@ The rest can come later. All of this shouldn't be here anyways
 
 &nbsp;&nbsp;&nbsp;&nbsp;[![Python][python-shield]][python-url]
 
-&nbsp;&nbsp;&nbsp;&nbsp;[![C++][cpp-shield]][cpp-url]
-
-&nbsp;&nbsp;&nbsp;&nbsp;[![GNU Bash][bash-shield]][bash-url]
-
-&nbsp;&nbsp;&nbsp;&nbsp;[![Notepad][npp-shield]][npp-url]
+Jetbrains/Pycharm
 
 <p align="right">(<a href="#readme-top">^</a>)</p>
 
@@ -130,35 +126,6 @@ Things you need to use the software and how to install them:
 Install instructions:
 
 * Step 1: Check back soon...
-
-<p align="right">(<a href="#readme-top">^</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-Unneeded
-
-Example use cases:
-
-* Check back soon...
-
-_For more examples, please refer to the [Documentation](https://github.com/zak-steenhoek/Micromouse-Robot)_
-
-<p align="right">(<a href="#readme-top">^</a>)</p>
-
-
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-Unneeded
-
-
-_See the [open issues](https://github.com/zak-steenhoek/Micromouse-Robot/issues) for a full list of proposed features (and known issues)._
 
 <p align="right">(<a href="#readme-top">^</a>)</p>
 

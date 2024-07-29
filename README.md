@@ -154,7 +154,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the MIT License. See `ref/master/LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">^</a>)</p>
 
@@ -180,7 +180,8 @@ Distributed under the MIT License. See `ref/master/LICENSE.txt` for more informa
 
 ## Acknowledgments
 
-* [Me](https://github.com/zak-steenhoek)
+* mms repo
+* piccola repo
 
 <p align="right">(<a href="#readme-top">^</a>)</p>
 

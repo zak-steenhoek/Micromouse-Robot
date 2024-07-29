@@ -27,14 +27,14 @@
   <p align="center">
     A program to guide an autonomous robot to the center of an unknown maze using a variation of the floodfill algorithm.
     <br />
-    <a href="https://github.com/zak-steenhoek/mms-Sim" style="text-decoration: none;"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/zak-steenhoek/Micromouse-Robot" style="text-decoration: none;"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/zak-steenhoek/mms-Sim">View Demo</a>
+    <a href="https://github.com/zak-steenhoek/Micromouse-Robot">View Demo</a>
     ⋅
-    <a href="https://github.com/zak-steenhoek/mms-Sim/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/zak-steenhoek/Micromouse-Robot/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ⋅
-    <a href="https://github.com/zak-steenhoek/mms-Sim/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/zak-steenhoek/Micromouse-Robot/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -145,7 +145,7 @@ Example use cases:
 
 * Check back soon...
 
-_For more examples, please refer to the [Documentation](https://github.com/zak-steenhoek/mms-Sim)_
+_For more examples, please refer to the [Documentation](https://github.com/zak-steenhoek/Micromouse-Robot)_
 
 <p align="right">(<a href="#readme-top">^</a>)</p>
 
@@ -158,7 +158,7 @@ _For more examples, please refer to the [Documentation](https://github.com/zak-s
 Unneeded
 
 
-_See the [open issues](https://github.com/zak-steenhoek/mms-Sim/issues) for a full list of proposed features (and known issues)._
+_See the [open issues](https://github.com/zak-steenhoek/Micromouse-Robot/issues) for a full list of proposed features (and known issues)._
 
 <p align="right">(<a href="#readme-top">^</a>)</p>
 
@@ -199,7 +199,7 @@ Distributed under the MIT License. See `ref/master/LICENSE.txt` for more informa
 
 * Author: Zakary Steenhoek
 
-* Project Link: [https://github.com/zak-steenhoek/mms-Sim](https://github.com/zak-steenhoek/mms-Sim)
+* Project Link: [https://github.com/zak-steenhoek/Micromouse-Robot](https://github.com/zak-steenhoek/Micromouse-Robot)
 
 [![Email][email-shield]][email-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -228,25 +228,25 @@ Distributed under the MIT License. See `ref/master/LICENSE.txt` for more informa
 [contributors-url]: https://github.com/zak-steenhoek
 
 [forks-shield]: https://img.shields.io/badge/-Forks-black.svg?logoSize=auto&style=for-the-badge&logo=greasyfork&logoColor=D7CFB7&labelColor=463C1E&color=463C1E
-[forks-url]: https://github.com/zak-steenhoek/mms-Sim/forks
+[forks-url]: https://github.com/zak-steenhoek/Micromouse-Robot/forks
 
 [stars-shield]: https://img.shields.io/badge/-Stars-black.svg?logoSize=auto&style=for-the-badge&logo=airtransat&logoColor=D7CFB7&labelColor=463C1E&color=463C1E
-[stars-url]: https://github.com/zak-steenhoek/mms-Sim/stargazers
+[stars-url]: https://github.com/zak-steenhoek/Micromouse-Robot/stargazers
 
 [issues-shield]: https://img.shields.io/badge/-Issues-black.svg?logoSize=auto&style=for-the-badge&logo=gnometerminal&logoColor=D7CFB7&labelColor=463C1E&color=463C1E
-[issues-url]: https://github.com/zak-steenhoek/mms-Sim/issues
+[issues-url]: https://github.com/zak-steenhoek/Micromouse-Robot/issues
 
 [dependencies-shield]: https://img.shields.io/badge/-Dependencies-black.svg?logoSize=auto&style=for-the-badge&logo=webmoney&logoColor=D7CFB7&labelColor=463C1E&color=463C1E
-[dependencies-url]: https://github.com/zak-steenhoek/mms-Sim/network/dependencies
+[dependencies-url]: https://github.com/zak-steenhoek/Micromouse-Robot/network/dependencies
 
 [acknowledgments-shield]: https://img.shields.io/badge/-Acknowledgments-black.svg?logoSize=auto&style=for-the-badge&logo=elegoo&logoColor=D7CFB7&labelColor=463C1E&color=463C1E
-[acknowledgments-url]: https://github.com/zak-steenhoek/mms-Sim/blob/main/ref/master/ACKNOWLEDGMENTS.txt
+[acknowledgments-url]: https://github.com/zak-steenhoek/Micromouse-Robot/blob/main/ref/master/ACKNOWLEDGMENTS.txt
 
 [license-shield]: https://img.shields.io/badge/-Licence-black.svg?logoSize=auto&style=for-the-badge&logo=adblock&logoColor=D7CFB7&labelColor=463C1E&color=463C1E
-[license-url]: https://github.com/zak-steenhoek/mms-Sim/blob/main/ref/master/LICENCE.txt
+[license-url]: https://github.com/zak-steenhoek/Micromouse-Robot/blob/main/ref/master/LICENCE.txt
 
 [program-arch-shield]: https://img.shields.io/badge/-Arch-black.svg?logoSize=auto&style=for-the-badge&logo=bookstack&logoColor=D7CFB7&labelColor=463C1E&color=463C1E
-[program-arch-url]: https://github.com/zak-steenhoek/mms-Sim/blob/main/ref/arch/program_arch.txt
+[program-arch-url]: https://github.com/zak-steenhoek/Micromouse-Robot/blob/main/ref/arch/program_arch.txt
 
 
 <!-- MADE WITH -->

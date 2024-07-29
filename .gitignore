@@ -1,0 +1,1 @@
+# Ignore macOS system files\n.DS_Store\n\n# Ignore Python bytecode\n__pycache__/\n*.pyc\n\n# Ignore logs and databases\nlogs/\n*.log\n*.sqlite\n\n# Ignore compiled files\n*.o\n*.out\n\n# Ignore IDE-specific files\n.vscode/\n.idea/\n\n# Ignore CMake build files\nbuild/
